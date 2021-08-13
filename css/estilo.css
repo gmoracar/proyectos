@@ -1,0 +1,12 @@
+body{
+	background-image: url('https://4.bp.blogspot.com/-FO3Or4s4Lmg/V0cM51OiQ7I/AAAAAAAAAZo/9J6KnrfM-hUWRH0ErbTmrAaIB4JNFXAlgCLcB/s1600/Fondo-wallpaper-1736833.jpg');
+	background-repeat: no-repeat;	
+  	background-attachment: fixed;
+  	background-size: cover;
+}
+
+
+.container{
+	background: red;
+	width: 50px; height: 100px;
+}
